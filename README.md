@@ -10,9 +10,9 @@ The program autoamtically broadcast an AP to allow you to configure your own WIF
 
 ## Images
 
-![alt text](https://github.com/max246/anniversary-screen/raw/master/static/time.jpg "Time scren")
-![alt text](https://github.com/max246/anniversary-screen/raw/master/static/met.jpg "Met screen")
-![alt text](https://github.com/max246/anniversary-screen/raw/master/static/together.jpg "Togheter screen")
+![alt text](https://github.com/max246/anniversary-screen/raw/main/static/time.jpg "Time scren")
+![alt text](https://github.com/max246/anniversary-screen/raw/main/static/met.jpg "Met screen")
+![alt text](https://github.com/max246/anniversary-screen/raw/main/static/together.jpg "Togheter screen")
 
 
 
