@@ -20,7 +20,11 @@ The program autoamtically broadcast an AP to allow you to configure your own WIF
 
 
 [Original project](https://learn.adafruit.com/wifi-weather-station-with-tft-display)
+
 [Adafruit 2.4" TFT](https://www.adafruit.com/product/3315)
+
 [Adafruit Huzzah](https://www.adafruit.com/product/2821)
+
 [Battery](https://www.adafruit.com/product/2011)
+
 [Switch](https://www.adafruit.com/product/805)
